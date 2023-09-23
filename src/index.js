@@ -1,3 +1,8 @@
-let nome = "ola mundo"
+//nome do herói
 
-console.log (nome)
+let heroi = "Senhor Z";
+let nivelDoHeroi = 10000
+
+if (nivelDoHeroi <= "imortal")
+
+console.log(nivelDoHeroi)
